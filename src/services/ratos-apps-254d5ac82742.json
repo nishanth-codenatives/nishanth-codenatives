@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ratos-apps",
+  "private_key_id": "254d5ac82742b2d829cce7e021782f8fd82eabf3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDI46ePUpshJcEY\n8Unk0E2lZVQ2mgd+J3Vqdfxz2RnYYbARz4hHDo8uqKhfl6veH/nd8kTY+jI3u0cW\nC0sqIY6M4xANBMZIOLerRM79KwSLdN8FJNNcUuoXtqjfkcaPU/7hniBqJePTkpMm\nuJjcs5lE5afcY6HZ2ixyuApTM50P4XpC23dNqkKRlvil4Kth8vCdy8WedQEZgilI\n/qJDYIjr2tMSHZOwaCSCNdbV1dnVoExNwiLEFlwdeeNviN9Gr4SnZQNUNJkYRQzF\nq6V1kXTcNsteUvoQtXJNl2JBB3NOqT6FPVe9KUE+PkxWXidK68TvboI0ascBAPEh\nPFHOmIV1AgMBAAECggEAD9gLVvL0GDpYOfA3Mew54NcWkWiMObzBS8sQGk+fnwt0\nAwZECx1QrqSPrwZmgDzeYfe3IAkk8nSl/SJD5IfurG7wzPi47hOcbM4e/c7+60Ql\nniFoPXUD+yh6tjNS8+qd2iE0u5p5wa3i8YqynQmEh5oN/K8A92PNM05k8L32imd2\nwDL1Vsqy5AUMhzOgKMLUZzGQl639vAaJxK/a2kWZY/bBicS4kE16q9K9KNMRMXm9\nLRjJsTcsu4DRbLkAwH6BCK7lDLURVxYtCA9LBjWS0f5AiZRzWS0XCDbT+QT1divU\n3rdO0MBWF9B9/2eXghn8XzpVC+DX+HypYjWww8gN4QKBgQD3bUkKAzYP3TfWQwe+\nl7Te/0IAHZGWAz2hXdNkwtpLYhqbdavx4uQ57XN4OFfVEemReoceXzIwx0vkSiQ9\nfoovxc7MpLi6VaNLWe+MlkuKsVXMf+uw8IL8rTeh6Nhucw2lvlB+Ma3fDc7R0uaQ\njjuzaSspzT7BtXyKwewvXjxvJQKBgQDP2ZLHrLLEZU/goDRX5A4eMrn0uWUtOeXH\nPrt+574IkK+K9wJAs+YuMBUSxM5TptFaA9f7Cp4GNPXtPWSPFdVvEnDoZM6SF5Zi\nE6Z7gZyNtm+VhgndFU/1mVkY3briyvwqU/7tAZsnrFD6lry5teLiliKC7bX+33/I\nohsIr5lUEQKBgDuWNxvRMCjb5sGT/P56fJWjtZpfhJszBpmhBfLjNj0nUC8WRKWJ\nNdt5gvB16TkoCi796iJ3XJgAtxcwf8/LdK4Snj4MgWxmiV/xNc6Ot3ycPoR0XieL\nlJATiy1T7SOUU7oRvkLV5gCsy50ehGZVyqzna/yyMCXodijYkO/LaxR9AoGBAJ3z\n7kOnzkLJ6yX9GUohmUkBq6d6rJTuBtyfo8URP60qpvyoMiIRlL9M8vbMcS/I+he6\nDAxPST/WR33+xcinAwfhr8Qrt3/2ROZLoJ0DJoHbPnkW37APXjB6VOc8uaVYNMHG\nC1j5e3tuzCtjGhDXVJB1H8z38PK7zlQePQUgzRjBAoGAEalfuRUJAdw66tbXqYgi\ne8sTx+EoBAL0KOwB5ppj3zYTOIVMbI9x7W4cxPh7uI6VkOzO06Nz69dghZQ0qt5D\n+tRXoy5xkbb8Yoh4z1o3U3XuKPEVYRFhpar78IG7zlW7s/UlKA16eaDKRnIImMK8\nLNH1BZiaVwip2EZ9cHePzuo=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cloud-functions@ratos-apps.iam.gserviceaccount.com",
+  "client_id": "109092656942509370515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cloud-functions%40ratos-apps.iam.gserviceaccount.com"
+}

@@ -1,0 +1,41 @@
+{
+  "dev": {
+    "name": "RATOS - Dev Mode",
+    "port": 3001,
+    "host": "localhost",
+    "mode": "development",
+    "protocol": "http",
+    "serverUrl": "localhost",
+    "serverUrlWebUrlLink": "localhost:4200/",
+    "database": {
+      "host": "35.239.38.193",
+      "username": "postgres",
+      "password": "M8CKIytdA1ddc3OM",
+      "name": "ratos-dev",
+      "port": "5432",
+      "dialect": "postgres",
+      "logging": false,
+      "timezone": "+05:30"
+    },
+    "firebaseConfig" : {
+      "apiKey": "AIzaSyAnLSLj9SQ8MlREfL1XR5YAxkDd2yu8Gg0",
+      "authDomain": "ratos-ec0ae.firebaseapp.com",
+      "databaseURL": "https://ratos-ec0ae.firebaseio.com",
+      "projectId": "ratos-ec0ae",
+      "storageBucket": "ratos-ec0ae.appspot.com",
+      "messagingSenderId": "153708188706",
+      "appId": "1:153708188706:web:23508def69c1dddc3be67b",
+      "measurementId": "G-VRS31CYXQC"
+    },
+    "domain":"https://demo.ratosapp.com/index.html#",
+    "authenticate":"https://us-central1-ratos-apps.cloudfunctions.net/user/authorize",
+    "authorize":"https://us-central1-ratos-apps.cloudfunctions.net/resource_role/acl" ,
+    "clearCache":"https://us-central1-ratos-apps.cloudfunctions.net/candidate/clear_cache",
+    "email":{
+      "host":"smtp.gmail.com",
+      "port":"465",
+      "username":"ratosapp@gmail.com",
+      "password":"Code@2020"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "ratos-apps",
+  "private_key_id": "2630ef0e38cb77c017af115cbe3ec7299577df3d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDFfiZMYpg+/UrM\ncoJQdzHOIKKKkwMx1a6VG33pCFfS9EDxqIrm+RwWbrkdIvzFSQ13LnQn0xQynU28\nXKqVF02AnLxKFXOOXUt3JQW7c641WXD+iiZlCLcill/QrNBCfIZI3zG6cBGOV4t0\nNedzoOdFtwTgsea1b3VpoLmlNe0OF4PcI3zjaVIYcU6QnqWHLSqmhEfnJ3SzVH7y\nbXI+SqJm4W24AqUqdfayJJft9X6yY8swfBa4cyjrd57ZPcvScAuSM0vI5YBSPAmL\n0QhTsePtiHk/ZhwpONjUfwZ9FIwD8WnvaqO4nx/cuOZGkWKUFp4MRTdtQ0a9RXVD\n+8i4aeXbAgMBAAECggEAWxkmJG0EamXfV3BosSJSTJFcOMy4mAfHuMsOKOyqyknW\nHULQE9wL+0MGy6xkacKZXgUFGouw0OojvgQGwbAWlYF3DztW6vAZC/P9cWrajIxd\n5WQncspy45b2yqS0ij6zmLCv2R6x0nWKg8gLpBgwJkXWj6kwUTgBMoCrscwutaUO\nsxF7SmrWC++oSYo4x8WcXK4JigsvwPJ8WdJXoySxA2XdHZsv2dkF2o07DUr3yBYB\n9lbPih/7MHOP1O5AQOxzAlIm7Lhtke4hiibpqBVs5pGR9TygpsvcgExq5Z35aV6b\nF6nkveg2pOkp/N6ShqrOifsmKSdUW1PJ4iYfJAwIRQKBgQDmb4HsxFc9OIhHHhhv\n+XK8rS8E3Zn6V0OBTNC7fCpbRC8qfCF0FxVQ/d+cfEYMK1kfxN/raBL4sR0cHuk8\nb8uABWpLu0rO1mIGG5/kqvBtC+RJGfPMSrM+U3S5hgZWu+OFswFhReaIw0S0xYC9\nXjYE43gNuupUgvr24Y0BFN0U9wKBgQDbZwyKIYRSseeYl4FOvhdo+JJfC6EzyLDp\nWraCMzrP1om6qYLz85FKosK2xTzCz3slDj2m0eonrgcp3tCtjmjG0kDUD8K8vlnq\nB/Kt0Jb6rWe0B0tmt55ZeqbQUxXje8lpyFQI3qzH4lKlrhgzLuWL1htwKJgde3c+\nEqCypQSRPQKBgQCl97YaM6epvmfY4QI00/MhlZKB7KGUPvmtzQehoWJYbZmS/eiS\nVnXR6af+azuAVFBSo1erkz/mwpn2wQS3tMVbJYtTlEfjBWGAiLD2329e+uunAvwn\nLb4/q5gsby1tltHeX/kkeFX8NrfrgzygJ5S8nKDBMtjHmbbrzbPjDYXWLQKBgQCo\niIHjYVepxirm1gpoGDEXW0nkZKSRiKoMtrfXT87vdBccIbYL+p8yu8/iYaQI6SPp\nFQVarYi2rkGmchfOGcR2ZW+S9gBax8V9tlk+FyrCqI0uhyPuZUHn7gVRpWD8+0t+\nTHnwzkvexwVBa3f/aRi+z9sHzsb6bqrsLZbvYz8c6QKBgQCS4n/QFvTvlaAyUZfO\n1iwYGqi2NNatzCWs4sgAdyf8cggKBQ3w314e3a27lMUB69HjYF2yR7r1UnKmW3MY\nyt61N9rFDybwCD8UeYwCQTxu7yG9z6t3kUBdemGLjclvQeAVh5Lfsa7C4qctHCzJ\n2ZdKLD8DZ62PJ4rLXiFyR47QQw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ratos-file-upload@ratos-apps.iam.gserviceaccount.com",
+  "client_id": "103463335422197364621",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ratos-file-upload%40ratos-apps.iam.gserviceaccount.com"
+}

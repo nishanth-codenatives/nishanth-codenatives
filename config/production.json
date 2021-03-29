@@ -1,0 +1,32 @@
+{
+    "production": {
+        "name": "RATOS - Dev Mode",
+        "port": 3000,
+        "host": "localhost",
+        "mode": "development",
+        "protocol": "http",
+        "serverUrl": "localhost",
+        "serverUrlWebUrlLink": "localhost:4200/",
+        "database": {
+          "host": "34.122.116.249",
+          "username": "postgres",
+          "password": "M8CKIytdA1ddc3OM",
+          "name": "ratos-dev",
+          "port": "5432",
+          "dialect": "postgres",
+          "logging": false,
+          "timezone": "+05:30"
+        },
+        "firebaseConfig" : {
+          "apiKey": "AIzaSyA2Z0SpetB5sLksQNDePpmZQK4wolRgnjU",
+          "authDomain": "beta-rattosapp.firebaseapp.com",
+          "projectId": "beta-rattosapp",
+          "storageBucket": "beta-rattosapp.appspot.com",
+          "messagingSenderId": "998324055419",
+          "appId": "1:998324055419:web:826b47d42a55ae914761de"
+        },
+        "authenticate":"https://us-east1-ratos-apps.cloudfunctions.net/user/authorize",
+        "authorize":"https://us-east1-ratos-apps.cloudfunctions.net/resource_role/acl"
+      }
+    }
+    
